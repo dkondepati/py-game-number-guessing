@@ -6,9 +6,9 @@
 
 **Version:** 1.0
 
-**Created Date:** 2026-07-24
+**Created Date:** 2021-07-24
 
-**Last Updated:** 2026-07-24
+**Last Updated:** 2021-07-24
 
 **Compatibility:** Python 3.x
 
@@ -113,7 +113,7 @@ This project is open-source software licensed under the [MIT license](https://mi
 ```text
 MIT License
 
-Copyright (c) 2026 Ali Candan
+Copyright (c) 2021 Dinesh Kondepati
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
